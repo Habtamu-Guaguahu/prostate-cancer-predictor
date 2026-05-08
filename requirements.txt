@@ -1,8 +1,8 @@
-streamlit==1.28.1 
-numpy==1.23.5 
-pandas==1.5.3 
-scikit-learn==1.2.2 
-matplotlib==3.7.1 
-joblib==1.2.0 
-scikit-survival==0.20.0 
-xgboost==1.7.5 
+streamlit 
+numpy 
+pandas 
+scikit-learn 
+matplotlib 
+joblib 
+scikit-survival 
+xgboost 
